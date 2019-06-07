@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: daa650fde48d32f47bb89a256b5f91ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Waterlily
+  fontNames:
+  - Waterlily
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9faf2333afbed2142866c12a4cf48148, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
